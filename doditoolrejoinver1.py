@@ -1,6 +1,3 @@
-
-#Ver 1
-
 #!/bin/python3.12
 # -*- coding: utf-8 -*-
 __OWN__ = "Nguyễn Xuân Trịnh & Phạm Anh Tiến"
