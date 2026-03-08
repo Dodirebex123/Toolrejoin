@@ -11,5 +11,5 @@ yes | pkg i python
 yes | pkg i python-pip
 pip install requests rich prettytable pytz pycryptodome
 export CFLAGS="-Wno-error=implicit-function-declaration"
-pip install psutil
+pkg install python-psutil -y
 curl -Ls "https://raw.githubusercontent.com/Dodirebex123/Toolrejoin/refs/heads/main/doditoolrejoinver1.py" -o /sdcard/Download/doditoolrejoinver1.py
